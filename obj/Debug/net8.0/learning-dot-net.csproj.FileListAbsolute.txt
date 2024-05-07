@@ -1,0 +1,14 @@
+/home/cleomir/development/learning-dot-net/bin/Debug/net8.0/learning-dot-net
+/home/cleomir/development/learning-dot-net/bin/Debug/net8.0/learning-dot-net.deps.json
+/home/cleomir/development/learning-dot-net/bin/Debug/net8.0/learning-dot-net.runtimeconfig.json
+/home/cleomir/development/learning-dot-net/bin/Debug/net8.0/learning-dot-net.dll
+/home/cleomir/development/learning-dot-net/bin/Debug/net8.0/learning-dot-net.pdb
+/home/cleomir/development/learning-dot-net/obj/Debug/net8.0/learning-dot-net.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleomir/development/learning-dot-net/obj/Debug/net8.0/learning-dot-net.AssemblyInfoInputs.cache
+/home/cleomir/development/learning-dot-net/obj/Debug/net8.0/learning-dot-net.AssemblyInfo.cs
+/home/cleomir/development/learning-dot-net/obj/Debug/net8.0/learning-dot-net.csproj.CoreCompileInputs.cache
+/home/cleomir/development/learning-dot-net/obj/Debug/net8.0/learning-dot-net.dll
+/home/cleomir/development/learning-dot-net/obj/Debug/net8.0/refint/learning-dot-net.dll
+/home/cleomir/development/learning-dot-net/obj/Debug/net8.0/learning-dot-net.pdb
+/home/cleomir/development/learning-dot-net/obj/Debug/net8.0/learning-dot-net.genruntimeconfig.cache
+/home/cleomir/development/learning-dot-net/obj/Debug/net8.0/ref/learning-dot-net.dll
