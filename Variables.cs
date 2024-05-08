@@ -4,6 +4,7 @@ namespace Variables
 {
     class Variables
     {
+        byte age = 25;
         char letter = 'A';
         int x = 5;
         float y = 3.14f;
