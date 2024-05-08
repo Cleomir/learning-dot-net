@@ -12,3 +12,4 @@
 /home/cleomir/development/learning-dot-net/obj/Debug/net8.0/learning-dot-net.pdb
 /home/cleomir/development/learning-dot-net/obj/Debug/net8.0/learning-dot-net.genruntimeconfig.cache
 /home/cleomir/development/learning-dot-net/obj/Debug/net8.0/ref/learning-dot-net.dll
+/home/cleomir/development/learning-dot-net/obj/Debug/net8.0/learning-dot-net.sourcelink.json
