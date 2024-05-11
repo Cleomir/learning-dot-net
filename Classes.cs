@@ -1,10 +1,10 @@
-class Car
+class Truck
 {
     public string model;
 
     // constructor
-    public Car()
+    public Truck()
     {
-        model = "Mustang";
+        model = "Scania";
     }
 }
